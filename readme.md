@@ -3,9 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-muhammed-07" alt="abdulrahman-muhammed-07" /></a> </p>
 
+- 🔭 I’m currently working on **Laravel, PHP, MySQL based Projects and Eager to learn more and expand my knowledge.**
+
+- 🌱 I’m currently learning **Java , Rust and GoLang.**
+
+- ⚡ Fun fact **I like Reading and watching Anime!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulrahmanelnegery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmanelnegery" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abdelrahman-el-negery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelrahman-el-negery" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdulrahman_eln1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulrahman_eln1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abdulrahman.elnegery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdulrahman.elnegery" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdelrahmanmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmanmuhammed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
