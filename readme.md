@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Abdelrahman Muhammed 👋</h1>
-<h3 align="center">Passionate Backend Developer from Egypt</h3>
+<h1 align="center">Hello there, I'm Abdelrahman Muhammed 👋</h1>
+<h3 align="center">Passionate Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulrahmanelnegery" target="_blank">
