@@ -3,11 +3,13 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on PHP / Laravel Projects<br>🌱 I’m currently learning Rust and Java<br>
+- 🔭 I’m currently working on PHP / Laravel Projects<br>
 
-- 📫 How to reach me **abdulrahman.elnegery@gmail.com**
+- 🌱 I’m currently learning Rust and Java<br>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvH-9dY895n-HLcKqQ8H4gOy18Tt5i6E/view](https://drive.google.com/file/d/1rvH-9dY895n-HLcKqQ8H4gOy18Tt5i6E/view)
+- 📫 How to reach me **abdulrahman.elnegery@gmail.com**<br>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rvH-9dY895n-HLcKqQ8H4gOy18Tt5i6E/view](https://drive.google.com/file/d/1rvH-9dY895n-HLcKqQ8H4gOy18Tt5i6E/view)<br>
 
   
 <h3 align="left">Connect with me online:</h3>
