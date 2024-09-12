@@ -1,8 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Abulrahman Muhammed !</h1>
 <h3 align="center">A Passionate and Enthusiastic Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-muhammed-07" alt="abdulrahman-muhammed-07" /></a> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on PHP / Laravel Projects<br>🌱 I’m currently learning Rust and Java<br>
 
