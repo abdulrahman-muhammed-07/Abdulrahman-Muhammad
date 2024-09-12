@@ -34,7 +34,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=abdulrahman-muhammed-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
-<h2 align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<h2 align="center">
+<h2 align="center">
+  
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+ <h2 align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdulrahman-muhammed-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
