@@ -11,12 +11,6 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1rvH-9dY895n-HLcKqQ8H4gOy18Tt5i6E/view) <br>
 
-<h2 align="center">
-  
-# 👤 Connect with me online
-
-</h2>  
-
 <p align="left">
 <a href="https://linkedin.com/in/abdulrahmanelnegery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmanelnegery" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18606007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelrahman-el-negery" height="30" width="40" /></a>
