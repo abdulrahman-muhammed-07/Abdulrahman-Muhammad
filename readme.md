@@ -1,83 +1,89 @@
-<h1 align="center">Hi There 👋, I'm Abulrahman Muhammed !</h1>
-<h3 align="center">A Passionate and Enthusiastic Software Engineer</h3>
+# Hi There 👋, I'm Abdulrahman Muhammed
 
-# 💫 About Me:
+### A Passionate and Enthusiastic Software Engineer
 
-- 🔭 I’m currently working on PHP / Laravel Projects<br>
+---
 
-- 🌱 I’m currently learning Rust and Java<br>
+## 💫 About Me:
+- 🔭 I’m currently working on PHP / Laravel Projects
+- 🌱 I’m currently learning Rust and Java
+- 📫 How to reach me: **abdulrahman.elnegery@gmail.com**
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1qfTKqrYuF6pL_OwCkRz32ih6KmNxw9Vn/view)
 
-- 📫 How to reach me **abdulrahman.elnegery@gmail.com**<br>
+---
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1qfTKqrYuF6pL_OwCkRz32ih6KmNxw9Vn/view) <br>
+## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/abdulrahmanelnegery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmanelnegery" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18606007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelrahman-el-negery" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdulrahman_eln1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulrahman_eln1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdulrahman.elnegery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdulrahman.elnegery" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdelrahmanmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmanmuhammed" height="30" width="40" /></a>
-</p>
-
-
-<h1 align="center">
-
-# 💻 Tech Stack
-
-</h1>  
-
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-<h1 align="center">
+<div align="center">
   
-# 📊 GitHub Stats:
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanmuhammad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanelnegery)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18606007/abdelrahman-el-negery)
 
-</h1>  
+</div>
+---
+## 💻 Tech Stack
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![API Tools](https://img.shields.io/badge/API_Tools-0056B3?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server_Management-000000?style=for-the-badge&logo=server-fault&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=abdulrahman-muhammed-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-muhammed-07&theme=dark&hide_border=false)<br/>
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=abdulrahman-muhammed-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-muhammed-07&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-muhammed-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h1 align="center">
+---
+## 📊 GitHub Stats
 
+<details>
+  <summary>📈 Profile Stats</summary>
+  <br>
+  <div align="center">
+    <img alt="Abdulrahman Muahammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-muhammed-07&show_icons=true&count_private=true&theme=tokyonight" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-muhammed-07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="abdulrahman-muhammed-07" height="200px"/>
+  </div>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-muhammed-07&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="abdulrahman-muhammed-07" />
+  </div>
+</details>
+
+---
 
 ## 🏆 GitHub Trophies
 
-</h1>  
-
 ![](https://github-profile-trophy.vercel.app/?username=abdulrahman-muhammed-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h1 align="center">
-
+---
 
 ### ✍️ Quote
 
-</h1>  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">
-  
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-</h2>  
-
-<h2 align="center">
-
-
-### 🔝 Top Contributed Repo
-
-</h2>  
-
-![](https://github-contributor-stats.vercel.app/api?username=abdulrahman-muhammed-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<h2 align="center">
-
---- Happy Visit 👋 
-
-</h2>  
-
-<br>
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=abdulrahman-muhammed-07&icon=0&color=2)](https://visitcount.itsvg.in)
