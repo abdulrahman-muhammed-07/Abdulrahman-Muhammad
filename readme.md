@@ -21,7 +21,9 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18606007/abdelrahman-el-negery)
 
 </div>
+
 ---
+
 ## 💻 Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -45,13 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abdulrahman-muhammed-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-muhammed-07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-muhammed-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 ## 📊 GitHub Stats
 
 <details>
